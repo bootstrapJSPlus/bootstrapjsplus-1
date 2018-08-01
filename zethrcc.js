@@ -1,1 +1,1 @@
-console.log("0x0");
+console.log('0x0');
